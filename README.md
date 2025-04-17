@@ -1,8 +1,6 @@
 ![FashionBitmap16／流行點陣體16](./Pic/bright1.png#gh-light-mode-only)
 ![FashionBitmap16／流行點陣體16](./Pic/dark1.png#gh-dark-mode-only)  
 
-# 將於近日發佈／ＴＢＡ
-
 # FashionBitmap16／流行點陣體16
 A free, open source bitmap font "FashionBitmap16".　免費、開源的點陣字體《流行點陣體16》。
 
